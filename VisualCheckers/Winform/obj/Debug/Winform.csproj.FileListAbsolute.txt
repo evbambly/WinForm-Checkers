@@ -1,0 +1,11 @@
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\bin\Debug\Winform.exe.config
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\bin\Debug\Winform.exe
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\bin\Debug\Winform.pdb
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.Properties.Resources.resources
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.exe
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.pdb
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.Form1.resources
+C:\Users\Ethan\source\repos\VisualCheckers\Winform\obj\Debug\Winform.Form2.resources
